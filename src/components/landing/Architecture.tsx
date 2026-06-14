@@ -6,7 +6,6 @@ import {
   Brain,
   Database,
   Monitor,
-  ArrowRight,
   ArrowDown,
 } from "lucide-react";
 

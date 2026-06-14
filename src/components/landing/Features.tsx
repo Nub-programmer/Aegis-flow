@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Scan, Brain, GitBranch, Zap, Radio, Shield, BarChart3, Clock } from "lucide-react";
+import { Scan, Brain, GitBranch, Zap } from "lucide-react";
 
 const features = [
   {

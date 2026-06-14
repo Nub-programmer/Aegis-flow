@@ -7,7 +7,6 @@ import {
   MessageSquare,
   TrendingUp,
   X,
-  ChevronRight,
 } from "lucide-react";
 import { Incident } from "@/lib/data";
 import { SeverityBadge } from "./SeverityBadge";

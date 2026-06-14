@@ -26,7 +26,6 @@ export function WorkflowTimeline({ currentStep }: WorkflowTimelineProps) {
           const Icon = step.icon;
           const isActive = index === currentStep;
           const isComplete = index < currentStep;
-          const isPending = index > currentStep;
 
           return (
             <div key={step.id} className="flex items-center gap-2 flex-1">

@@ -1,4 +1,5 @@
 # Aegiscore AI — Autonomous Decision Intelligence MVP
+(build for far away hackathon by Atharv ;3)
 
 Aegiscore AI is a premium, production-grade autonomous decision-support platform designed for high-stakes operational control rooms. It continuously monitors high-volume data streams (IoT sensors, fleet tracking telemetry, municipal grid metrics), automatically detects anomalies, runs multi-agent contextual logic, generates precise action recommendations, and composes explainable human-in-the-loop audit logs.
 
